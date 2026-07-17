@@ -10,12 +10,15 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+- 💻 i am bacit student 
 - 🌱 Currently intermediate 
 - 💻 Passionate about Web Development
 - 🚀 Love building useful projects
 - 📚 Always exploring new technologies
 - 🤝 Open to collaboration
-- ⚡ Fun fact: I turn coffee ☕ into code
+- ⌨️ i am already learn mysql,c basic
+-  
+
 
 ---
 
